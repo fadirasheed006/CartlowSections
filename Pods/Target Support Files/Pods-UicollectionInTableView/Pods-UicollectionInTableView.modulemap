@@ -1,0 +1,6 @@
+framework module Pods_UicollectionInTableView {
+  umbrella header "Pods-UicollectionInTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
